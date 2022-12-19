@@ -1,27 +1,8 @@
-# belly-button-challenge\
 Background
 In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogs the microbes that colonize human navels.
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
-Before You Begin
-Create a new repository for this project called belly-button-challenge. Do not add this Challenge to an existing repository.
-
-Clone the new repository to your computer.
-
-Inside your local git repository, copy the files from in the StarterCode folder contained within the Module 14 Challenge zip file. i.e. index.html, samples.json, and the static folder.
-
-NOTE
-You will not be required to access the samples.json file locally, but it is provided for reference.
-
-Push the above changes to GitHub.
-
-Deploy the new repository to GitHub Pages.
-
-Files
-Download the following files to help you get started:
-
-Module 14 Challenge files
 
 Instructions
 Complete the following steps:
@@ -55,12 +36,6 @@ Display the sample metadata, i.e., an individual's demographic information.
 
 Display each key-value pair from the metadata JSON object somewhere on the page.
 
-hw
-
-Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
-hw
-
-Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
 Advanced Challenge Assignment (Optional)
 The following task is advanced and therefore optional.
 
@@ -72,10 +47,8 @@ Update the chart whenever a new sample is selected.
 
 Weekly Washing Frequency Gauge
 
-Hints
-Use console.log inside of your JavaScript code to see what your data looks like at each step.
+![bellybutton`](https://user-images.githubusercontent.com/105824024/208501221-16936f0c-26da-41bc-8e47-d174a5fab28d.png)
 
-Refer to the Plotly.js documentationLinks to an external site. when building the plots.
 
-Submission
-To submit your Challenge assignment, click Submit, and then provide the URL of your GitHub repository for grading.
+![belly2](https://user-images.githubusercontent.com/105824024/208501264-85f8d92b-04ce-4a96-a124-e5e77021119b.png)
+
