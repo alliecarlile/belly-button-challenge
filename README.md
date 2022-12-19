@@ -50,3 +50,17 @@ Weekly Washing Frequency Gauge
 
 ![belly2](https://user-images.githubusercontent.com/105824024/208501264-85f8d92b-04ce-4a96-a124-e5e77021119b.png)
 
+
+**Methods used:**
+
+JavaScript
+
+HTML
+
+CSS
+
+D3 library 
+
+Plotly 
+
+
